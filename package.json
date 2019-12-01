@@ -1,0 +1,23 @@
+{
+  "name": "upload-resume",
+  "version": "1.0.0",
+  "description": "resumable upload API",
+  "main": "server.js",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "node-static": "^0.7.11",
+    "path": "^0.12.7"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": [
+    "pause",
+    "resume",
+    "upload"
+  ],
+  "author": "Piyushh Bhutoria",
+  "license": "ISC"
+}
